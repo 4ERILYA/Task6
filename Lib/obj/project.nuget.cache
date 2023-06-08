@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbxIzyLtC0htEo+eUI5FNxhuuUcaL15QQ2rrxBDIfmV8i69L001kW5NL1IGNV5SGKqjWcohxZ5lYcGBWNaVAPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romse\\Desktop\\task_6.Net\\Lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romse\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\romse\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
